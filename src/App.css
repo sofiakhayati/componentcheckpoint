@@ -1,0 +1,14 @@
+.App 
+{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWb0mNWHYpEyQYYR-s_iL3Z1RsPAc1dQuur6UyiL9qdwarS8suvrTpzGEHrT7SUOrpSA&usqp=CAU);
+  background-size: cover;
+}
+
+.down
+{
+font-family: cursive;
+font-size: large;
+font-style: italic;
+text-align: center;
+padding-bottom: 5%;
+}
